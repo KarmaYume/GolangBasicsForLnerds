@@ -1,4 +1,4 @@
-//basically associating a function with a struct using a variable to the pointer of that struct
+//basically associating a function with a struct using a variable of the pointer of that struct
 
 package main
 
